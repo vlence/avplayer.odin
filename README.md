@@ -6,13 +6,16 @@ features. Will be using ffmpeg. I heard Odin has really good support for importi
 C libs so this is a nice way for me to try that out too. Wanted to learn to use
 the ffmpeg library anyway.
 
-## Features
+## Plan
 
 I'm using this list to track what to build next.
 
-* [ ] AAC audio
-* [ ] H.264 video
-* [ ] MP4
-* [ ] Play/Pause
-* [ ] Replay from beginning
-* [ ] Load container
+1. [x] hello world
+2. [ ] Window
+3. [ ] Window with "hello, world!"
+4. [ ] Play/Pause button that toggles when clicked
+5. [ ] Load big buck bunny mp4
+6. [ ] Play big buck bunny
+7. [ ] Play/pause button
+8. [ ] Add button to load any mp4
+9. [ ] Replay from beginning button
