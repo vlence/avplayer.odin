@@ -10,9 +10,9 @@ the ffmpeg library anyway.
 
 I'm using this list to track what to build next.
 
-[-] - AAC audio
-[-] - H.264 video
-[-] - MP4
-[-] - Play/Pause
-[-] - Restart
-[-] - Load container
+* [ ] AAC audio
+* [ ] H.264 video
+* [ ] MP4
+* [ ] Play/Pause
+* [ ] Restart
+* [ ] Load container
