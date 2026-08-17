@@ -14,5 +14,5 @@ I'm using this list to track what to build next.
 * [ ] H.264 video
 * [ ] MP4
 * [ ] Play/Pause
-* [ ] Restart
+* [ ] Replay from beginning
 * [ ] Load container
