@@ -11,8 +11,8 @@ the ffmpeg library anyway.
 I'm using this list to track what to build next.
 
 1. [x] hello world
-2. [ ] Window
-3. [ ] Window with "hello, world!"
+2. [x] Window
+3. [x] Window with "hello, world!"
 4. [ ] Play/Pause button that toggles when clicked
 5. [ ] Load big buck bunny mp4
 6. [ ] Play big buck bunny
